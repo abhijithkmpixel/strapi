@@ -1,0 +1,9 @@
+DATABASE_URL:                 postgres://oumbkiedndqgkj:7ce514eb62af82ac88cb46af19585cb7afdc3425b2571b12300a6078ca463a7d@ec2-18-204-142-254.compute-1.amazonaws.com:5432/dbp1mg0til1pl0
+
+
+
+
+HEROKU_POSTGRESQL_MAROON_URL: postgres://revmfwowsbpldh:c3b459c60974aaca29906d6440cb4c34b922a42bfc4d122a8432c35165043340@ec2-52-72-56-59.compute-1.amazonaws.com:5432/dohtv7thcu583
+
+
+NODE_ENV:                     production
